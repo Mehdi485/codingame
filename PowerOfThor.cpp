@@ -5,11 +5,6 @@
 
 using namespace std;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
-
 int main()
 {
     int surfaceN; // the number of points used to draw the surface of Mars.
@@ -43,7 +38,7 @@ int main()
             cout << "0 2" << endl;
         }
 
-        // 2 integers: rotate power. rotate is the desired rotation angle (should be 0 for level 1), power is the desired thrust power (0 to 4).
+
       
     }
 }
